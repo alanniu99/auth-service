@@ -1,6 +1,6 @@
-package com.piggymetrics;
+package com.piggymetrics.auth;
 
-import com.piggymetrics.service.MongoUserDetailsService;
+import com.piggymetrics.auth.service.MongoUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.SpringApplication;

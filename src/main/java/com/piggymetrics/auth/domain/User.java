@@ -1,4 +1,4 @@
-package com.piggymetrics.domain;
+package com.piggymetrics.auth.domain;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

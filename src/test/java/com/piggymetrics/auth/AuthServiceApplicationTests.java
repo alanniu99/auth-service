@@ -1,4 +1,4 @@
-package com.piggymetrics;
+package com.piggymetrics.auth;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

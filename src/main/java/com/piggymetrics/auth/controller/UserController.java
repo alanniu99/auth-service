@@ -1,7 +1,7 @@
-package com.piggymetrics.controller;
+package com.piggymetrics.auth.controller;
 
-import com.piggymetrics.domain.User;
-import com.piggymetrics.service.UserService;
+import com.piggymetrics.auth.domain.User;
+import com.piggymetrics.auth.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
